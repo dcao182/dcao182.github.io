@@ -6,11 +6,11 @@ State University, Fullerton](http://www.fullerton.edu/).
 My GitHub page is http://github.com/dcao182.
 
 ### CS 10 - Python Programming
-* [Abbreviation Slang Translation](https://github.com/dcao182/dcao182.github.io/blob/master/Abbreviation%20Slang%20Translation%20(Python)/DictionaryProgram.py)
-* [Calculate a Loan to Buy a Car](https://github.com/dcao182/dcao182.github.io/blob/master/Car%20Loan%20(Python)/CarLoan.py)
+* [Abbreviation Slang Translation](https://github.com/dcao182/dcao.github.io/commit/168deec3766afb363aaff0ca17ea9913fd3aaf86)
+* [Calculate a Loan to Buy a Car](https://github.com/dcao182/dcao.github.io/commit/cef08261de2eb4a7c333bc8faeec51c92b5af0d2)
 
 ### CPSC 120 - Introduction to Programming using C++
 * [Grade Calculator Project](https://github.com/csuf-cpsc-mshafae-spring-2020/cpsc-120-project-02-dcao182/blob/master/grades.cpp)
 
 ### Personal C++ Projects
-* [Movie Collection](https://github.com/dcao182/dcao182.github.io/commit/2e73849329098432242e87990520893108f50fbe)
+* [Movie Collection](https://github.com/dcao182/dcao.github.io/commit/020761e8eca9c66868826e537c7f17df2bc4eeec)
