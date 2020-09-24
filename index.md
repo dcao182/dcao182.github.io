@@ -1,5 +1,5 @@
 # Hello World
-This is my home page!  My name is Daniel Cao and I am a Computer Science student at [California
+My name is Daniel Cao.  Welcome to my GitHub homepage! I am a Computer Science student at [California
 State University, Fullerton](http://www.fullerton.edu/).
 
 ## Computer Science Projects
