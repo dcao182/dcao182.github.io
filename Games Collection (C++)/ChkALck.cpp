@@ -15,8 +15,7 @@ void ChkALck::Roll() {
 	srand((unsigned)time(0));
 	std::cout << "You rolled: " << std::endl;
 
-	for (i = 0; i < 5; i++)
-	{
+	for (int i = 0; i < 5; i++) {
 	roll = rand() % 6 + 1;
 	if (roll == side)
 		win++;
