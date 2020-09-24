@@ -1,14 +1,16 @@
 # Hello World
-This is my home page!  My name is Daniel Cao and I am a Computer Science student at [California
+My name is Daniel Cao.  Welcome to my GitHub homepage! I am a Computer Science student at [California
 State University, Fullerton](http://www.fullerton.edu/).
 
 ## Computer Science Projects
 My GitHub page is http://github.com/dcao182.
 
 ### Personal C++ Projects
+* [Games Collection](https://github.com/dcao182/dcao.github.io/commit/a81dee78d4e703a84a9bdd3b8461ae238fb8437b)
 * [Movie Collection](https://github.com/dcao182/dcao.github.io/commit/020761e8eca9c66868826e537c7f17df2bc4eeec)
 
 ### CPSC 120 - Introduction to Programming using C++
+* [Crown & Anchor Game](https://github.com/csuf-cpsc-mshafae-spring-2020/cpsc-120-final-dcao182/blob/master/crown_and_anchor.cpp)
 * [Multiplying Arrays](https://github.com/dcao182/dcao.github.io/commit/022a8f0649006210f564a511fa5172b3fae375c2)
 * [Grade Calculator Project](https://github.com/csuf-cpsc-mshafae-spring-2020/cpsc-120-project-02-dcao182/blob/master/grades.cpp)
 
