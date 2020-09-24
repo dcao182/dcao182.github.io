@@ -8,6 +8,7 @@ My GitHub page is http://github.com/dcao182.
 ### Personal C++ Projects
 * [Games Collection](https://github.com/dcao182/dcao.github.io/commit/a81dee78d4e703a84a9bdd3b8461ae238fb8437b)
 * [Movie Collection](https://github.com/dcao182/dcao.github.io/commit/020761e8eca9c66868826e537c7f17df2bc4eeec)
+* [Matrix Multiplication](https://github.com/dcao182/dcao.github.io/commit/f06d23abebbbbd8e79f82922f9a37373010ad434)
 
 ### CPSC 120 - Introduction to Programming using C++
 * [Crown & Anchor Game](https://github.com/csuf-cpsc-mshafae-spring-2020/cpsc-120-final-dcao182/blob/master/crown_and_anchor.cpp)
