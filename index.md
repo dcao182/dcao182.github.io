@@ -9,6 +9,7 @@ My GitHub page is http://github.com/dcao182.
 * [Games Collection](https://github.com/dcao182/dcao.github.io/commit/a81dee78d4e703a84a9bdd3b8461ae238fb8437b)
 * [Movie Collection](https://github.com/dcao182/dcao.github.io/commit/020761e8eca9c66868826e537c7f17df2bc4eeec)
 * [Matrix Multiplication](https://github.com/dcao182/dcao.github.io/commit/f06d23abebbbbd8e79f82922f9a37373010ad434)
+* [Character Count](https://github.com/dcao182/dcao.github.io/commit/4761c8103e1c13220b778869611d2658bc1bf2d1)
 
 ### CPSC 120 - Introduction to Programming using C++
 * [Crown & Anchor Game](https://github.com/csuf-cpsc-mshafae-spring-2020/cpsc-120-final-dcao182/blob/master/crown_and_anchor.cpp)
