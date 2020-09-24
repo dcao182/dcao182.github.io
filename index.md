@@ -5,7 +5,8 @@ State University, Fullerton](http://www.fullerton.edu/).
 ## Computer Science Projects
 My GitHub page is http://github.com/dcao182.
 
-### CS 10 - Python Programming
+### CS 10 - Python Programming Projects
+* [Ice Cream Sales Report](https://github.com/dcao182/dcao.github.io/commit/827f7cec14deb532972c043acb35b556cbebcf73)
 * [Abbreviation Slang Translation](https://github.com/dcao182/dcao.github.io/commit/168deec3766afb363aaff0ca17ea9913fd3aaf86)
 * [Calculate a Loan to Buy a Car](https://github.com/dcao182/dcao.github.io/commit/cef08261de2eb4a7c333bc8faeec51c92b5af0d2)
 
