@@ -1,3 +1,7 @@
+/*
+Creates & maintains a collection of books to form a book list
+Books are placed in a list, removed from a list, and rearranged in a list.
+*/
 #include <exception>
 #include <iostream>
 #include <typeinfo>
@@ -80,14 +84,6 @@ int main()
   try
   {
     basicScenario();
-
-
-    ///////////////////////// TO-DO (1) //////////////////////////////
-     /// Create, manipulate, and display your own BookList object here.  Not looking for anything specific but expect you to write
-     /// about 15 to 20 C++ lines of code (not necessarily physical lines in this file) that demonstrate you can use the BookList
-     /// class to create, update, and display the contents of a book list.
-
-    /////////////////////// END-TO-DO (1) ////////////////////////////
   }
 
   catch( const std::exception & ex )
