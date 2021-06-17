@@ -1,0 +1,25 @@
+Test results for:
+"9789998819450", "Frankenstein", "Shelly", 0
+
+  [PASSED] numberOfWords: Frankenstein   : expected and actual '7195' are equal
+  [PASSED] wordCount: Frankenstein       : expected and actual '24' are equal
+  [PASSED] wordCount: life               : expected and actual '114' are equal
+  [PASSED] wordCount: feared             : expected and actual '13' are equal
+  [PASSED] wordCount: the                : expected and actual '4187' are equal
+  [PASSED] mostFrequentWord: Frankenstein: expected and actual 'the' are equal
+  [PASSED] maxBucketSize: Frankenstein   : expected and actual '6' are equal
+
+
+Test results for:
+"9789998302938", "Legend of Sleepy Hollow", "Washington Irving", 0
+
+  [PASSED] numberOfWords: Sleepy Hollow   : expected and actual '3231' are equal
+  [PASSED] wordCount: Ichabod             : expected and actual '45' are equal
+  [PASSED] wordCount: the                 : expected and actual '917' are equal
+  [PASSED] mostFrequentWord: Sleepy Hollow: expected and actual 'the' are equal
+  [PASSED] maxBucketSize: Sleepy Hollow   : expected and actual '6' are equal
+
+
+Summary: 12 of 12 (100%) tests passed
+
+
