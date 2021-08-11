@@ -16,8 +16,8 @@ My GitHub page is http://github.com/dcao182.
 
 
 ### CPSC 131 - Advanced Data Structures & Algorithms using C++
+* [Word counter using unordered containers (hash tables)](https://github.com/dcao182/dcao182.github.io/tree/master/Book%20Store%20using%20unordered%20containers%20(C%2B%2B))
 * [Book Store using associative containers (maps & trees)](https://github.com/dcao182/dcao182.github.io/tree/master/Book%20Store%20using%20maps%20%26%20trees%20(C%2B%2B))
-
 * [Book Library using sequence containers (singly linked lists, doubly linked lists, arrays, & vectors)](https://github.com/dcao182/dcao182.github.io/tree/master/Book%20Library%20using%20singly%20linked%20lists%2C%20doubly%20linked%20lists%2C%20arrays%2C%20and%20vectors%20(C%2B%2B))
 
 ### CPSC 120 - Introduction to Programming using C++
