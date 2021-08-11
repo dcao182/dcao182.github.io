@@ -26,6 +26,9 @@ My GitHub page is http://github.com/dcao182.
 * [Multiplying Arrays](https://github.com/dcao182/dcao.github.io/commit/022a8f0649006210f564a511fa5172b3fae375c2)
 * [Grade Calculator Project](https://github.com/csuf-cpsc-mshafae-spring-2020/cpsc-120-project-02-dcao182/blob/master/grades.cpp)
 
+### Personal Python Projects
+* [A Space Adventure Game](https://github.com/dcao182/dcao.github.io/commit/1dd3a0bd0e88c6737c4e072516080c98bca7a1bd)
+
 ### CS 10 - Python Programming Projects
 * [Ice Cream Sales Report](https://github.com/dcao182/dcao.github.io/commit/827f7cec14deb532972c043acb35b556cbebcf73)
 * [Abbreviation Slang Translation](https://github.com/dcao182/dcao.github.io/commit/168deec3766afb363aaff0ca17ea9913fd3aaf86)
