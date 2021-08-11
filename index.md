@@ -27,7 +27,7 @@ My GitHub page is http://github.com/dcao182.
 * [Grade Calculator Project](https://github.com/csuf-cpsc-mshafae-spring-2020/cpsc-120-project-02-dcao182/blob/master/grades.cpp)
 
 ### Personal Python Projects
-* [A Space Adventure Game](https://github.com/dcao182/dcao.github.io/commit/1dd3a0bd0e88c6737c4e072516080c98bca7a1bd)
+* [A Space Adventure Game](https://github.com/dcao182/dcao182.github.io/tree/master/Mission%20Escape%20(Python))
 
 ### CS 10 - Python Programming Projects
 * [Ice Cream Sales Report](https://github.com/dcao182/dcao.github.io/commit/827f7cec14deb532972c043acb35b556cbebcf73)
