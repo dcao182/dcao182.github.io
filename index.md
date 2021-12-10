@@ -18,11 +18,11 @@ My GitHub page is http://github.com/dcao182.
 
 ### CPSC 335 - Algorithm Engineering using C++
 * [Navigating a seaport among buildings to reach the most cranes using (Dynamic Programming)]
-(https://github.com/dcao182/dcao182.github.io/tree/master/Dynamic%20Programming%20Project%20(C%2B%2B)
+(https://github.com/dcao182/dcao182.github.io/tree/master/Dynamic%20Programming%20Project%20(C%2B%2B))
 * [Finding the most balanced hash table (C++)]
-(https://github.com/dcao182/dcao182.github.io/tree/master/Finding%20the%20most%20balanced%20hash%20table%20(C%2B%2B)
+(https://github.com/dcao182/dcao182.github.io/tree/master/Finding%20the%20most%20balanced%20hash%20table%20(C%2B%2B))
 * [Loading goods onto a container ship using greedy method and exhaustive search) (C++)]
-(https://github.com/dcao182/dcao182.github.io/tree/master/Greedy%20vs.%20Exhaustive%20(C%2B%2B)
+(https://github.com/dcao182/dcao182.github.io/tree/master/Greedy%20vs.%20Exhaustive%20(C%2B%2B))
 
 
 ### CPSC 131 - Advanced Data Structures & Algorithms using C++
