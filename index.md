@@ -15,6 +15,16 @@ My GitHub page is http://github.com/dcao182.
 * [Character Count](https://github.com/dcao182/dcao.github.io/commit/4761c8103e1c13220b778869611d2658bc1bf2d1)
 
 
+
+### CPSC 335 - Algorithm Engineering using C++
+* [Navigating a seaport among buildings to reach the most cranes using (Dynamic Programming)]
+(https://github.com/dcao182/dcao182.github.io/tree/master/Dynamic%20Programming%20Project%20(C%2B%2B)
+* [Finding the most balanced hash table (C++)]
+(https://github.com/dcao182/dcao182.github.io/tree/master/Finding%20the%20most%20balanced%20hash%20table%20(C%2B%2B)
+* [Loading goods onto a container ship using greedy method and exhaustive search) (C++)]
+(https://github.com/dcao182/dcao182.github.io/tree/master/Greedy%20vs.%20Exhaustive%20(C%2B%2B)
+
+
 ### CPSC 131 - Advanced Data Structures & Algorithms using C++
 * [Word counter using unordered containers (hash tables)](https://github.com/dcao182/dcao182.github.io/tree/master/Book%20Store%20using%20unordered%20containers%20(C%2B%2B))
 * [Book Store using associative containers (maps & trees)](https://github.com/dcao182/dcao182.github.io/tree/master/Book%20Store%20using%20maps%20%26%20trees%20(C%2B%2B))
