@@ -18,9 +18,9 @@ My GitHub page is http://github.com/dcao182.
 * [A Space Adventure Game](https://github.com/dcao182/dcao182.github.io/tree/master/Mission%20Escape%20(Python))
 
 ### CPSC 481 - Artificial Intelligence using Python
-* [Navigating a farmer to carry a wolf, cabbage, and a goat across a river](https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes)
-* [Game of Nim](https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes)
-* [Tic Tac Toe Pyramid Game](https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes)
+* [Navigating a farmer to carry a wolf, cabbage, and a goat across a river](https://github.com/dcao182/dcao182.github.io/tree/master/Farmer%2C%20Wolf%2C%20Goat%2C%20Cabbage)
+* [Game of Nim](https://github.com/dcao182/dcao182.github.io/tree/master/Game%20of%20Nim)
+* [Tic Tac Toe Pyramid Game](https://github.com/dcao182/dcao182.github.io/tree/master/Tic%20Tac%20Toe%20Pyramid%20Game)
 
 ### CPSC 351 - Operating Systems Concepts using C/C++
 * [Utilizing proper syncronization on threads in a binary search tree using pthread mutexes (C/C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes)
