@@ -14,6 +14,9 @@ My GitHub page is http://github.com/dcao182.
 * [Movie Collection](https://github.com/dcao182/dcao.github.io/commit/020761e8eca9c66868826e537c7f17df2bc4eeec)
 * [Character Count](https://github.com/dcao182/dcao.github.io/commit/4761c8103e1c13220b778869611d2658bc1bf2d1)
 
+### Personal Python Projects
+* [A Space Adventure Game](https://github.com/dcao182/dcao182.github.io/tree/master/Mission%20Escape%20(Python))
+
 ### CPSC 481 - Artificial Intelligence using Python
 * [Navigating a farmer to carry a wolf, cabbage, and a goat across a river](https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes)
 * [Game of Nim](https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes)
@@ -38,9 +41,6 @@ My GitHub page is http://github.com/dcao182.
 * [Crown & Anchor Game](https://github.com/csuf-cpsc-mshafae-spring-2020/cpsc-120-final-dcao182/blob/master/crown_and_anchor.cpp)
 * [Multiplying Arrays](https://github.com/dcao182/dcao.github.io/commit/022a8f0649006210f564a511fa5172b3fae375c2)
 * [Grade Calculator Project](https://github.com/csuf-cpsc-mshafae-spring-2020/cpsc-120-project-02-dcao182/blob/master/grades.cpp)
-
-### Personal Python Projects
-* [A Space Adventure Game](https://github.com/dcao182/dcao182.github.io/tree/master/Mission%20Escape%20(Python))
 
 ### CS 10 - Python Programming Projects
 * [Ice Cream Sales Report](https://github.com/dcao182/dcao.github.io/commit/827f7cec14deb532972c043acb35b556cbebcf73)
