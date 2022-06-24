@@ -15,8 +15,7 @@ My GitHub page is http://github.com/dcao182.
 * [Character Count](https://github.com/dcao182/dcao.github.io/commit/4761c8103e1c13220b778869611d2658bc1bf2d1)
 
 ### CPSC 351 - Operating Systems Concepts in C/C++
-* [Utilizing proper syncronization on threads in a binary search tree using pthread mutexes (C/C++)]
-(https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes)
+* [Utilizing proper syncronization on threads in a binary search tree using pthread mutexes (C/C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes))
 
 ### CPSC 335 - Algorithm Engineering using C++
 * [Navigating a seaport among buildings to reach the most cranes (Dynamic Programming in C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Dynamic%20Programming%20Project%20(C%2B%2B))
