@@ -14,12 +14,14 @@ My GitHub page is http://github.com/dcao182.
 * [Movie Collection](https://github.com/dcao182/dcao.github.io/commit/020761e8eca9c66868826e537c7f17df2bc4eeec)
 * [Character Count](https://github.com/dcao182/dcao.github.io/commit/4761c8103e1c13220b778869611d2658bc1bf2d1)
 
-
+### CPSC 351 - Operating Systems Concepts in C/C++
+* [Utilizing proper syncronization on threads in a binary search tree using pthread mutexes (C/C++)]
+(https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes)
 
 ### CPSC 335 - Algorithm Engineering using C++
-* [Navigating a seaport among buildings to reach the most cranes using (Dynamic Programming)](https://github.com/dcao182/dcao182.github.io/tree/master/Dynamic%20Programming%20Project%20(C%2B%2B))
+* [Navigating a seaport among buildings to reach the most cranes (Dynamic Programming in C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Dynamic%20Programming%20Project%20(C%2B%2B))
 * [Finding the most balanced hash table (C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Finding%20the%20most%20balanced%20hash%20table%20(C%2B%2B))
-* [Loading goods onto a container ship using greedy method and exhaustive search) (C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Greedy%20vs.%20Exhaustive%20(C%2B%2B))
+* [Loading goods onto a container ship (Greedy and Exhaustive algorithms in C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Greedy%20vs.%20Exhaustive%20(C%2B%2B))
 
 
 ### CPSC 131 - Advanced Data Structures & Algorithms using C++
