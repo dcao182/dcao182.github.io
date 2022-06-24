@@ -14,7 +14,12 @@ My GitHub page is http://github.com/dcao182.
 * [Movie Collection](https://github.com/dcao182/dcao.github.io/commit/020761e8eca9c66868826e537c7f17df2bc4eeec)
 * [Character Count](https://github.com/dcao182/dcao.github.io/commit/4761c8103e1c13220b778869611d2658bc1bf2d1)
 
-### CPSC 351 - Operating Systems Concepts in C/C++
+### CPSC 481 - Artificial Intelligence using Python
+* [Navigating a farmer to carry a wolf, cabbage, and a goat across a river](https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes)
+* [Game of Nim](https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes)
+* [Tic Tac Toe Pyramid Game](https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes)
+
+### CPSC 351 - Operating Systems Concepts using C/C++
 * [Utilizing proper syncronization on threads in a binary search tree using pthread mutexes (C/C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes)
 
 ### CPSC 335 - Algorithm Engineering using C++
