@@ -1,4 +1,4 @@
-# CPSC-481-Final-Project
+# Tic Tac Toe Pyramid Game
 
 **Contributors: Andy Cao, Daniel Cao, Ariadne Rincon**    
 This project was created for our CPSC 481 class    
