@@ -9,7 +9,7 @@ My GitHub page is http://github.com/dcao182.
 * [Palindrome using a queue & a stack](https://github.com/dcao182/dcao.github.io/commit/1dd3a0bd0e88c6737c4e072516080c98bca7a1bd)
 * [Occurrences of a Word in a Text File using maps & sets](https://github.com/dcao182/dcao182.github.io/blob/master/Occurrences%20of%20a%20word%20in%20a%20text%20file%20using%20maps%20and%20sets%20(C%2B%2B)/main.cpp)
 * [Music Playlist using linked lists](https://github.com/dcao182/dcao.github.io/blob/master/Playing%20songs%20from%20a%20playlist%20using%20lists%20(C%2B%2B)/main.cpp)
-* [Matrix Multiplication using multidimensional arrays](https://github.com/dcao182/dcao.github.io/commit/f06d23abebbbbd8e79f82922f9a37373010ad434)
+* [Matrix Multiplication using multidimensional arrays](https://github.com/dcao182/dcao182.github.io/tree/master/Matrix%20Multiplication%20(C%2B%2B))
 * [Games Collection](https://github.com/dcao182/dcao.github.io/commit/a81dee78d4e703a84a9bdd3b8461ae238fb8437b)
 * [Movie Collection](https://github.com/dcao182/dcao.github.io/commit/020761e8eca9c66868826e537c7f17df2bc4eeec)
 * [Character Count](https://github.com/dcao182/dcao.github.io/commit/4761c8103e1c13220b778869611d2658bc1bf2d1)
