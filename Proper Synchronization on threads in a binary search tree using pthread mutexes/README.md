@@ -1,12 +1,8 @@
-Daniel Cao
-dcao182@csu.fullerton.edu
+Thread synchronization
 
 Instructions on how to run the program:
 g++ threads.cpp -o threads -lpthread
 ./threads 10
-
-Anything special about the program:
-The program runs as expected.
 
 
 1.  The program shall be invoked as ./threads <number> where <number> is the number of threads.  For example, ./threads 10 will create 10 threads.
