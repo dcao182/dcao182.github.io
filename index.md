@@ -22,8 +22,13 @@ My GitHub page is http://github.com/dcao182.
 * [Game of Nim](https://github.com/dcao182/dcao182.github.io/tree/master/Game%20of%20Nim)
 * [Tic Tac Toe Pyramid Game](https://github.com/dcao182/dcao182.github.io/tree/master/Tic%20Tac%20Toe%20Pyramid%20Game)
 
+### CPSC 474 - Parallel & Distributed Computing
+* [Navigating a farmer to carry a wolf, cabbage, and a goat across a river](https://github.com/dcao182/dcao182.github.io/tree/master/Bernstein%E2%80%99s%20conditions%20for%20Data%20Dependencies)
+
+
 ### CPSC 351 - Operating Systems Concepts using C/C++
 * [Utilizing proper syncronization on threads in a binary search tree using pthread mutexes (C/C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes)
+* [Implemented serial and parallel downloaders (C/C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Serial%20and%20Parallel%20Downloaders)
 
 ### CPSC 335 - Algorithm Engineering using C++
 * [Navigating a seaport among buildings to reach the most cranes (Dynamic Programming in C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Dynamic%20Programming%20Project%20(C%2B%2B))
