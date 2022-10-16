@@ -1,0 +1,5 @@
+a = a + b * c
+The pairs of instructions that can be executed in parallel are:
+( b = b * c, d = c - a )
+The pairs of instructions that can be executed in parallel are:
+NONE
