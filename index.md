@@ -17,13 +17,19 @@ My GitHub page is http://github.com/dcao182.
 ### Personal Python Projects
 * [A Space Adventure Game](https://github.com/dcao182/dcao182.github.io/tree/master/Mission%20Escape%20(Python))
 
+### CPSC 535 - Advanced Algorithms
+* [Electric Car Traveller](https://github.com/dcao182/dcao182.github.io/tree/master/Electric%20Car%20Traveller)
+
+### CPSC 485 - Computational Bioinformatics
+* [Edit Distance](https://github.com/dcao182/dcao182.github.io/tree/master/Computing%20The%20Edit%20Distance%20Between%20Two%20Words)
+
 ### CPSC 481 - Artificial Intelligence using Python
 * [Navigating a farmer to carry a wolf, cabbage, and a goat across a river](https://github.com/dcao182/dcao182.github.io/tree/master/Farmer%2C%20Wolf%2C%20Goat%2C%20Cabbage)
 * [Game of Nim](https://github.com/dcao182/dcao182.github.io/tree/master/Game%20of%20Nim)
 * [Tic Tac Toe Pyramid Game](https://github.com/dcao182/dcao182.github.io/tree/master/Tic%20Tac%20Toe%20Pyramid%20Game)
 
 ### CPSC 474 - Parallel & Distributed Computing
-* [Navigating a farmer to carry a wolf, cabbage, and a goat across a river](https://github.com/dcao182/dcao182.github.io/tree/master/Bernstein%E2%80%99s%20conditions%20for%20Data%20Dependencies)
+* [Bernstein’s conditions for Data Dependencies](https://github.com/dcao182/dcao182.github.io/tree/master/Bernstein%E2%80%99s%20conditions%20for%20Data%20Dependencies)
 
 
 ### CPSC 351 - Operating Systems Concepts using C/C++
