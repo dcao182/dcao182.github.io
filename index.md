@@ -21,7 +21,7 @@ My GitHub page is http://github.com/dcao182.
 ### Personal Python Projects
 * [A Space Adventure Game](https://github.com/dcao182/dcao182.github.io/tree/master/Mission%20Escape%20(Python))
 
-### CPSC 535 - Advanced Algorithms
+### CPSC 535 - Advanced Algorithms (Graduate Course)
 * [It's a Small World (Python)](https://github.com/dcao182/dcao182.github.io/tree/master/Electric%20Car%20Traveller)
 * [Electric Car Traveller (Python)](https://github.com/dcao182/dcao182.github.io/tree/master/Electric%20Car%20Traveller)
 
