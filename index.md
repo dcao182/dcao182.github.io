@@ -18,7 +18,7 @@ My GitHub page is http://github.com/dcao182.
 * [A Space Adventure Game](https://github.com/dcao182/dcao182.github.io/tree/master/Mission%20Escape%20(Python))
 
 ### CPSC 535 - Advanced Algorithms
-* [It's a Small World (Python)](https://github.com/dcao182/dcao182.github.io/tree/master/It's%20a%20Small%20World%20(Python))
+* [It's a Small World (Python)](https://github.com/dcao182/dcao182.github.io/tree/master/Electric%20Car%20Traveller)
 * [Electric Car Traveller (Python)](https://github.com/dcao182/dcao182.github.io/tree/master/Electric%20Car%20Traveller)
 
 ### CPSC 485 - Computational Bioinformatics
@@ -30,7 +30,7 @@ My GitHub page is http://github.com/dcao182.
 * [Tic Tac Toe Pyramid Game (Python)](https://github.com/dcao182/dcao182.github.io/tree/master/Tic%20Tac%20Toe%20Pyramid%20Game)
 
 ### CPSC 474 - Parallel & Distributed Computing
-* [Chang Roberts algorithm using MPI (C++)] (https://github.com/dcao182/dcao182.github.io/tree/master/Chang%20Roberts%20Algorithm)
+* [Chang Roberts algorithm using MPI (C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Chang%20Roberts%20Algorithm)
 * [Bernstein’s conditions for Data Dependencies (C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Bernstein%E2%80%99s%20conditions%20for%20Data%20Dependencies)
 
 
