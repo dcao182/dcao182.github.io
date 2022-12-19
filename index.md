@@ -1,6 +1,10 @@
 # Hello World
-My name is Daniel Cao.  Welcome to my GitHub homepage! I am a Computer Science student at [California
+My name is Daniel Cao.  Welcome to my GitHub homepage showcasing my Computer Science projects!
+
+I am a new grad with a Bachelor of Science degree in Computer Science from [California
 State University, Fullerton](http://www.fullerton.edu/).
+
+In January 2023, I completed my Computer Science degree with a 3.8 GPA.
 
 ## Computer Science Projects
 My GitHub page is http://github.com/dcao182.
