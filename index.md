@@ -1,7 +1,7 @@
 # Hello World
 My name is Daniel Cao.  Welcome to my GitHub homepage showcasing my Computer Science projects!
 
-![image info]("C:\Users\dcao1\OneDrive\Pictures\IMG_20190115_132851.jpg")
+![image info]("https://www.dropbox.com/s/2t5gck0kot4ltti/IMG_20190115_132851.jpg?dl=0")
 
 I am a new grad with a Bachelor of Science degree in Computer Science from [California
 State University, Fullerton](http://www.fullerton.edu/).
