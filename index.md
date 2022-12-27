@@ -28,7 +28,7 @@ My GitHub page is http://github.com/dcao182.
 ### CPSC 485 - Computational Bioinformatics
 * [Edit Distance (Python)](https://github.com/dcao182/dcao182.github.io/tree/master/Computing%20The%20Edit%20Distance%20Between%20Two%20Words)
 
-### CPSC 481 - Artificial Intelligence using Python
+### CPSC 481 - Artificial Intelligence
 * [Navigating a farmer to carry a wolf, cabbage, and a goat across a river (Python)](https://github.com/dcao182/dcao182.github.io/tree/master/Farmer%2C%20Wolf%2C%20Goat%2C%20Cabbage)
 * [Game of Nim (Python)](https://github.com/dcao182/dcao182.github.io/tree/master/Game%20of%20Nim)
 * [Tic Tac Toe Pyramid Game (Python)](https://github.com/dcao182/dcao182.github.io/tree/master/Tic%20Tac%20Toe%20Pyramid%20Game)
