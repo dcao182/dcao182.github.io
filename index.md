@@ -6,7 +6,7 @@ My github URL is https://github.com/dcao182.
 I graduated in January 2023 with a Bachelor of Science degree in Computer Science from [California
 State University, Fullerton](http://www.fullerton.edu/) with a 3.64 grade point average.
 
-In January 2024, I began pursuing a Master of Science in Computer Science at Georgia Institute of Technology.
+In January 2024, I began pursuing a Master of Science in Computer Science at [Georgia Institute of Technology](https://www.gatech.edu/).
 
 ## Computer Science Projects
 My GitHub page is http://github.com/dcao182.
