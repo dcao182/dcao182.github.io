@@ -1,6 +1,8 @@
 # Hello World
 My name is Daniel Cao.  Welcome to my GitHub homepage showcasing my Computer Science projects!
 
+My github URL is https://github.com/dcao182.
+
 I graduated in January 2023 with a Bachelor of Science degree in Computer Science from [California
 State University, Fullerton](http://www.fullerton.edu/) with a 3.64 grade point average.
 
