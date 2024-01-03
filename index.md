@@ -1,12 +1,10 @@
 # Hello World
 My name is Daniel Cao.  Welcome to my GitHub homepage showcasing my Computer Science projects!
 
-My github URL is https://github.com/dcao182.
-
 I graduated in January 2023 with a Bachelor of Science degree in Computer Science from [California
 State University, Fullerton](http://www.fullerton.edu/) with a 3.64 grade point average.
 
-In January 2024, I began pursuing a Master of Science in Computer Science at [Georgia Institute of Technology](https://www.gatech.edu/).
+In January 2024, I am enrolled at [Georgia Institute of Technology](https://www.gatech.edu/) for their Master of Science in Computer Science program.
 
 ## Computer Science Projects
 My GitHub page is http://github.com/dcao182.
@@ -23,6 +21,8 @@ My GitHub page is http://github.com/dcao182.
 ### Personal Python Projects
 * [A Space Adventure Game](https://github.com/dcao182/dcao182.github.io/tree/master/Mission%20Escape%20(Python))
 
+
+### California State University, Fullerton Projects
 ### CPSC 535 - Advanced Algorithms (Graduate Course)
 * [It's a Small World (Python)](https://github.com/dcao182/dcao182.github.io/tree/master/It's%20a%20Small%20World%20(Python))
 * [Electric Car Traveller (Python)](https://github.com/dcao182/dcao182.github.io/tree/master/Electric%20Car%20Traveller)
