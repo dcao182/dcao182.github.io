@@ -1,6 +1,4 @@
 def shortest_path(graph, full_capacity, current_capacity, current_city, destination, result, previous):
-    
-    
     return_capacity = 0
     
     for edge in graph[current_city]:
@@ -10,19 +8,21 @@ def shortest_path(graph, full_capacity, current_capacity, current_city, destinat
         # keep track of distance between current city and previous city
         previous[current_city] = distance
         
-        # Keep track of capacity
+        # Traverse to next city by subtracting fuel and keep track of current capacity
         current_capacity -= distance
             
-        # Keep track whether if the car can travel to a city and return to the previous
+        # Keep track whether if the car can travel to the next city and return to the previous city
+        # incase the next city does not have a charging station
         # current capacity - distance back to previous city
         return_capacity = current_capacity - previous[current_city]
         
-        # If the car can travel to a city and return to the previous,
-        # recharge at previous city
+        # If the car cannot travel to the next city and return to the previous city,
+        # recharge at the previous city
         # Else if the car does not have enough capacity to travel to the next city,
         # Do not travel and recharge
         if return_capacity <= 0:
-            result.append(current_city)
+            if current_city not in result:
+                result.append(current_city)
             current_capacity = full_capacity
             
             ## We stop and charge at the previous city
@@ -33,10 +33,11 @@ def shortest_path(graph, full_capacity, current_capacity, current_city, destinat
             current_capacity = full_capacity
             
         ## If we reached the destination
-        if next_city == destination:
-            result.append(next_city)
-            print(result)
-            return
+        if current_capacity > distance:
+            if next_city == destination:
+                result.append(next_city)
+                print(result)
+                return
         
         ## Recursively call shortest_path to continuing travelling to the next city
         shortest_path(graph, full_capacity, current_capacity, next_city, destination, result, previous)
@@ -72,7 +73,6 @@ if __name__ == '__main__':
     	'G': set([('H', 72)]) 
 	}
 
-
     ## Graph 2
     #graph = {
    	    #'A': set([('B', 90)]),
@@ -97,4 +97,4 @@ if __name__ == '__main__':
 	 #}
     
     result = ['A']
-    shortest_path(graph, C, C, 'A', 'H', result, previous = {})
+    shortest_path(graph, C, C, result[0], 'H', result, previous = {})
