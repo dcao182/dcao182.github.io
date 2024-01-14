@@ -11,8 +11,7 @@ My GitHub page is http://github.com/dcao182.
 
 ### Georgia Institute of Technology Projects
 ### Computer Networks
-### Simulating Networks
-* [Simulating Networks](https://github.com/dcao182/dcao182.github.io/blob/master/Simulating%20Networks%20Project/datacenter.py)
+* [Simulating Networks (Python)](https://github.com/dcao182/dcao182.github.io/blob/master/Simulating%20Networks%20Project/datacenter.py)
 
 
 ### California State University, Fullerton Projects
