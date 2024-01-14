@@ -1,0 +1,27 @@
+--- a/plot_tcpprobe.py
++++ b/plot_tcpprobe.py
+@@ -35,19 +35,19 @@ def parse_file(f):
+                 s_time = float(line[0].split()[-1].split(":")[0])
+             timestamp = float(line[0].split()[-1].split(":")[0]) - s_time
+             fields = line[1].split()
+-            if len(fields) != 12:
++            if len(fields) != 13:
+                 skipped = True
+                 continue
+             if not args.sport:
+-                if fields[1].split('=')[1].split(':')[1] != args.port:
++                if fields[2].split('=')[1].split(':')[1] != args.port:
+                     continue
+             else:
+-                if fields[0].split('=')[1].split(':')[1] != args.port:
++                if fields[1].split('=')[1].split(':')[1] != args.port:
+                     continue
+-            sport = int(fields[0].split('=')[1].split(':')[1])
++            sport = int(fields[1].split('=')[1].split(':')[1])
+             times[sport].append(timestamp)
+
+-            c = int(fields[6].split('=')[1])
++            c = int(fields[7].split('=')[1])
+             cwnd[sport].append(c * 1480 / 1024.0)
+             if skipped:
+                 print("Warning, please let a TA know if you see this error message, in the matching project thread on Piazza.")
