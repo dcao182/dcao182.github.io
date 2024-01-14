@@ -6,6 +6,12 @@ State University, Fullerton](http://www.fullerton.edu/) with a 3.64 grade point 
 
 In January 2024, I am enrolled at [Georgia Institute of Technology](https://www.gatech.edu/) for their Master of Science in Computer Science program.
 
+### Georgia Institute of Technology Projects
+### Computer Networks
+### Simulating Networks
+* [Simulating Networks](https://github.com/dcao182/dcao182.github.io/blob/master/Simulating%20Networks%20Project/datacenter.py)
+
+
 ## Computer Science Projects
 My GitHub page is http://github.com/dcao182.
 
