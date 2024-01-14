@@ -1,18 +1,16 @@
 # Hello World
 My name is Daniel Cao.  Welcome to my GitHub homepage showcasing my Computer Science projects!
 
+My GitHub page is http://github.com/dcao182.
+
 I graduated in January 2023 with a Bachelor of Science degree in Computer Science from [California
 State University, Fullerton](http://www.fullerton.edu/) with a 3.64 grade point average.
 
-In January 2024, I am enrolled at [Georgia Institute of Technology](https://www.gatech.edu/) for their Master of Science in Computer Science program.
-
-## Computer Science Projects
-My GitHub page is http://github.com/dcao182.
+In January 2024, I enrolled at [Georgia Institute of Technology](https://www.gatech.edu/) for their Online Master of Science in Computer Science program.
 
 ### Georgia Institute of Technology Projects
 ### Computer Networks
 * [Simulating Networks (Python)](https://github.com/dcao182/dcao182.github.io/blob/master/Simulating%20Networks%20Project/datacenter.py)
-
 
 ### California State University, Fullerton Projects
 ### CPSC 535 - Advanced Algorithms (Graduate Course)
