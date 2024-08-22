@@ -8,15 +8,6 @@ State University, Fullerton](http://www.fullerton.edu/).  My grade point average
 
 In January 2024, I enrolled at [Georgia Institute of Technology](https://www.gatech.edu/) for their Online Master of Science in Computer Science program.
 
-### Georgia Institute of Technology Projects
-### Computer Networks
-* [BGP Measurements (Python)]()
-* [BGP Hijacking (Python, Mininet)]()
-* [Software Defined Networking Firewall (Python, Wireshark, Tshark, Mininet, OpenFlow)](https://gitfront.io/r/dcao72/cqcq2aXhMLZL/CS-6250-Software-Defined-Network-Firewall/)
-* [Distance Vector Routing (Python)](https://gitfront.io/r/dcao72/h6WKxFheJM2c/CS-6250-Distance-Vector-Routing/)
-* [Spanning Tree Protocol (Python)](https://gitfront.io/r/dcao72/rq6Lc6UkwHaT/CS-6250-Spanning-Tree-Protocol/)
-* [Simulating Networks (Python)](https://github.com/dcao182/dcao182.github.io/blob/master/Simulating%20Networks%20Project/datacenter.py)
-
 ### California State University, Fullerton Projects
 ### CPSC 535 - Advanced Algorithms (Graduate Course)
 * [It's a Small World (Python)](https://github.com/dcao182/dcao182.github.io/tree/master/It's%20a%20Small%20World%20(Python))
