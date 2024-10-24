@@ -3,10 +3,10 @@ My name is Daniel Cao.  Welcome to my GitHub homepage showcasing my Computer Sci
 
 My GitHub page is http://github.com/dcao182.
 
-In January 2023, I graduated with a Bachelor of Science with Honors, Cum Laude in Computer Science from [California
+In 2023, I graduated with a Bachelor of Science with Honors, Cum Laude in Computer Science from [California
 State University, Fullerton](http://www.fullerton.edu/).  My grade point average was 3.64 / 4.00.
 
-In January 2024, I enrolled at [Georgia Institute of Technology](https://www.gatech.edu/) for their Online Master of Science in Computer Science program.
+In 2024, I enrolled at [Georgia Institute of Technology](https://www.gatech.edu/) for their Online Master of Science in Computer Science program.
 
 ### California State University, Fullerton Projects
 ### CPSC 535 - Advanced Algorithms (Graduate Course)
