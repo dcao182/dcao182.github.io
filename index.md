@@ -7,6 +7,7 @@ In 2023, I graduated with a Bachelor of Science with Honors, Cum Laude in Comput
 State University, Fullerton](http://www.fullerton.edu/).  My grade point average was 3.64 / 4.00.
 
 In 2024, I enrolled at [Georgia Institute of Technology](https://www.gatech.edu/) for their Online Master of Science in Computer Science program.
+As of Fall 2024, I have completed 3 out of 10 courses at Georgia Tech.
 
 ### Georgia Institute of Technology Projects
 ### Graduate Operating Systems
@@ -17,6 +18,8 @@ In 2024, I enrolled at [Georgia Institute of Technology](https://www.gatech.edu/
 * [Distance Vector Routing](https://www.dropbox.com/scl/fi/kt2i6tyv9fvikdnky472h/DistanceVector.py?rlkey=jssogkjhki09ay9du8aoswc13&st=by14vz7b&dl=0)
 * [BGP Hijacking](https://www.dropbox.com/scl/fo/1jsto9ul1va8zperrsfbt/ANg0_poo4KNjvXv8AkIxNpY?rlkey=inxq8i3midra1flxwtch8xrc6&st=8ttqbx6z&dl=0)
 * [Software Defined Networking Firewall](https://www.dropbox.com/scl/fo/n371we1r1hazplyowxsyd/AP17guQQ5gTf_IFYIlGqEHE?rlkey=rqz790usvj019218meh0xl0zf&st=qdqyrd1l&dl=0)
+
+
 
 ### California State University, Fullerton Projects
 ### CPSC 535 - Advanced Algorithms (Graduate Course)
@@ -35,7 +38,6 @@ In 2024, I enrolled at [Georgia Institute of Technology](https://www.gatech.edu/
 * [Chang Roberts algorithm using MPI (C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Chang%20Roberts%20Algorithm)
 * [Bernstein’s conditions for Data Dependencies (C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Bernstein%E2%80%99s%20conditions%20for%20Data%20Dependencies)
 
-
 ### CPSC 351 - Operating Systems Concepts
 * [Utilizing proper syncronization on threads in a binary search tree using pthread mutexes (C/C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Proper%20Synchronization%20on%20threads%20in%20a%20binary%20search%20tree%20using%20pthread%20mutexes)
 * [Implemented serial and parallel downloaders (C/C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Serial%20and%20Parallel%20Downloaders)
@@ -44,7 +46,6 @@ In 2024, I enrolled at [Georgia Institute of Technology](https://www.gatech.edu/
 * [Navigating a seaport among buildings to reach the most cranes (Dynamic Programming in C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Dynamic%20Programming%20Project%20(C%2B%2B))
 * [Finding the most balanced hash table (C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Finding%20the%20most%20balanced%20hash%20table%20(C%2B%2B))
 * [Loading goods onto a container ship (Greedy and Exhaustive algorithms in C++)](https://github.com/dcao182/dcao182.github.io/tree/master/Greedy%20vs.%20Exhaustive%20(C%2B%2B))
-
 
 ### CPSC 131 - Objected Oriented Programming & Data Structures
 * [Word counter using unordered containers (hash tables)](https://github.com/dcao182/dcao182.github.io/tree/master/Book%20Store%20using%20unordered%20containers%20(C%2B%2B))
