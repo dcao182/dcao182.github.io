@@ -8,6 +8,16 @@ State University, Fullerton](http://www.fullerton.edu/).  My grade point average
 
 In 2024, I enrolled at [Georgia Institute of Technology](https://www.gatech.edu/) for their Online Master of Science in Computer Science program.
 
+### Georgia Institute of Technology Projects
+### Graduate Operating Systems
+* [Multi-threaded Server](https://www.dropbox.com/scl/fo/b2s2tit8wgqh4ufeeuc2z/AAV_lqv7hZ408FrYlTYJeqU?rlkey=5rm5of6ntg1w32xobtjlfqucj&st=vf5q2u8r&dl=0)
+* [IPC: Inter-Process Communication](https://www.dropbox.com/scl/fo/igxtuy0lhuv5o03vnl2it/AJ6gTwG5ZuOx8EcxThlr0Js?rlkey=8ocmtrzywn3r2abcbkv4h9bos&st=zbdc3v4l&dl=0)
+
+### Computer Networks
+* [Distance Vector Routing](https://www.dropbox.com/scl/fi/kt2i6tyv9fvikdnky472h/DistanceVector.py?rlkey=jssogkjhki09ay9du8aoswc13&st=by14vz7b&dl=0)
+* [BGP Hijacking](https://www.dropbox.com/scl/fo/1jsto9ul1va8zperrsfbt/ANg0_poo4KNjvXv8AkIxNpY?rlkey=inxq8i3midra1flxwtch8xrc6&st=8ttqbx6z&dl=0)
+* [Software Defined Networking Firewall](https://www.dropbox.com/scl/fo/n371we1r1hazplyowxsyd/AP17guQQ5gTf_IFYIlGqEHE?rlkey=rqz790usvj019218meh0xl0zf&st=qdqyrd1l&dl=0)
+
 ### California State University, Fullerton Projects
 ### CPSC 535 - Advanced Algorithms (Graduate Course)
 * [It's a Small World (Python)](https://github.com/dcao182/dcao182.github.io/tree/master/It's%20a%20Small%20World%20(Python))
