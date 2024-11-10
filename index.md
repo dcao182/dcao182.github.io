@@ -14,6 +14,11 @@ As of Fall 2024, I have completed 3 out of 10 courses at Georgia Tech.
 * [Multi-threaded Server](https://www.dropbox.com/scl/fo/b2s2tit8wgqh4ufeeuc2z/AAV_lqv7hZ408FrYlTYJeqU?rlkey=5rm5of6ntg1w32xobtjlfqucj&st=vf5q2u8r&dl=0)
 * [IPC: Inter-Process Communication](https://www.dropbox.com/scl/fo/igxtuy0lhuv5o03vnl2it/AJ6gTwG5ZuOx8EcxThlr0Js?rlkey=8ocmtrzywn3r2abcbkv4h9bos&st=zbdc3v4l&dl=0)
 
+### Game Artificial Intelligence
+* [A Star Pathfinding](https://www.dropbox.com/scl/fi/6mumhu5b0zpw8qn80gd1w/AStarPathSearchImpl.cs?rlkey=q2u395ym3va0yycf81pxsfhd2&st=pnc3c4lp&dl=0)
+* [Prison Dodgeball - Finite State Machine](https://www.dropbox.com/scl/fo/ckqnuzp11uuw1615dkbn3/AIq6UI9f3I177i0PIGbkB6g?rlkey=u4pztj7wwol63w74pwmdqnbha&st=z0jyzfih&dl=0)
+* [Path Networking](https://www.dropbox.com/scl/fi/05sglypl59h4n3szwhkq5/CreatePathNetwork.cs?rlkey=j4f9o6m3uqel4yv1c6qqg0tkc&st=3eiyzi6c&dl=0)
+
 ### Computer Networks
 * [Distance Vector Routing](https://www.dropbox.com/scl/fi/kt2i6tyv9fvikdnky472h/DistanceVector.py?rlkey=jssogkjhki09ay9du8aoswc13&st=by14vz7b&dl=0)
 * [BGP Hijacking](https://www.dropbox.com/scl/fo/1jsto9ul1va8zperrsfbt/ANg0_poo4KNjvXv8AkIxNpY?rlkey=inxq8i3midra1flxwtch8xrc6&st=8ttqbx6z&dl=0)
