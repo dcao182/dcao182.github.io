@@ -13,6 +13,7 @@ As of Fall 2024, I have completed 3 out of 10 courses at Georgia Tech.
 ### Graduate Operating Systems
 * [Multi-threaded Server](https://www.dropbox.com/scl/fo/b2s2tit8wgqh4ufeeuc2z/AAV_lqv7hZ408FrYlTYJeqU?rlkey=5rm5of6ntg1w32xobtjlfqucj&st=vf5q2u8r&dl=0)
 * [IPC: Inter-Process Communication](https://www.dropbox.com/scl/fo/igxtuy0lhuv5o03vnl2it/AJ6gTwG5ZuOx8EcxThlr0Js?rlkey=8ocmtrzywn3r2abcbkv4h9bos&st=zbdc3v4l&dl=0)
+* [GRPC and Distributed Systems](https://www.dropbox.com/scl/fo/3qq1a8we9y89aisks67rz/AMnrdMzGqRpFrhX0ioHGW2c?rlkey=nlfobkfgytbb0ct7j60o5drg1&st=9en4kh0t&dl=0)
 
 ### Game Artificial Intelligence
 * [A Star Pathfinding](https://www.dropbox.com/scl/fi/6mumhu5b0zpw8qn80gd1w/AStarPathSearchImpl.cs?rlkey=q2u395ym3va0yycf81pxsfhd2&st=pnc3c4lp&dl=0)
