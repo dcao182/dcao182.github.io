@@ -7,6 +7,10 @@ State University, Fullerton](http://www.fullerton.edu/).  My grade point average
 In 2024, I enrolled in [Georgia Institute of Technology](https://www.gatech.edu/) aka Georgia Tech's Online Master of Science in Computer Science program.
 
 ### Georgia Institute of Technology Projects
+### Robotics: Artificial Intelligence Techniques
+* [Hop Scotch Kalman Filters](https://www.dropbox.com/scl/fo/c1dmcsod344pmzuidojsz/AEWufP6WDRe0qE_bZh3v4fY?rlkey=ldaj0hue1mw8fm3wsg16ripa2&st=fnxrrtlx&dl=0)
+* [Solar System Particle Filters](https://www.dropbox.com/scl/fo/suc221ao6vfo8h84c8hjx/AIEWHFTdbkp5LdhGjZLLv5A?rlkey=lnfptf2f7i6vos4ogoussd9wb&st=rao7klqs&dl=0)
+
 ### Graduate Operating Systems
 * [Multi-threaded Server](https://www.dropbox.com/scl/fo/b2s2tit8wgqh4ufeeuc2z/AAV_lqv7hZ408FrYlTYJeqU?rlkey=5rm5of6ntg1w32xobtjlfqucj&st=vf5q2u8r&dl=0)
 * [IPC: Inter-Process Communication](https://www.dropbox.com/scl/fo/igxtuy0lhuv5o03vnl2it/AJ6gTwG5ZuOx8EcxThlr0Js?rlkey=8ocmtrzywn3r2abcbkv4h9bos&st=zbdc3v4l&dl=0)
