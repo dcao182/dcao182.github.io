@@ -10,7 +10,9 @@ In 2024, I enrolled in [Georgia Institute of Technology](https://www.gatech.edu/
 ### Robotics: Artificial Intelligence Techniques
 * [Hop Scotch Kalman Filters](https://www.dropbox.com/scl/fo/c1dmcsod344pmzuidojsz/AEWufP6WDRe0qE_bZh3v4fY?rlkey=ldaj0hue1mw8fm3wsg16ripa2&st=fnxrrtlx&dl=0)
 * [Solar System Particle Filters](https://www.dropbox.com/scl/fo/suc221ao6vfo8h84c8hjx/AIEWHFTdbkp5LdhGjZLLv5A?rlkey=lnfptf2f7i6vos4ogoussd9wb&st=rao7klqs&dl=0)
-
+* [Drone Control using Proportional, Integral, and Derivative (PID)](https://www.dropbox.com/scl/fo/a3odg3c6xq6ys8nx38qpy/AAP1KYuyaVZKVPLfajQaTag?rlkey=n8loxf2ip473dhc4usxbvqv1s&st=qvv4hj95&dl=0)
+* [Indiana Drones Simultaneous Mapping and Localization (SLAM)](https://www.dropbox.com/scl/fo/c7sh1zkt4y8kmr487cpvz/AB-3qAmNh9PE4Fa7-MQaOW4?rlkey=4kf7rzv05ei6dx6ngqps1f8mr&st=uxj2tpqk&dl=0)
+  
 ### Graduate Operating Systems
 * [Multi-threaded Server](https://www.dropbox.com/scl/fo/b2s2tit8wgqh4ufeeuc2z/AAV_lqv7hZ408FrYlTYJeqU?rlkey=5rm5of6ntg1w32xobtjlfqucj&st=vf5q2u8r&dl=0)
 * [IPC: Inter-Process Communication](https://www.dropbox.com/scl/fo/igxtuy0lhuv5o03vnl2it/AJ6gTwG5ZuOx8EcxThlr0Js?rlkey=8ocmtrzywn3r2abcbkv4h9bos&st=zbdc3v4l&dl=0)
