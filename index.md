@@ -73,6 +73,7 @@ In 2024, I enrolled in [Georgia Institute of Technology](https://www.gatech.edu/
 * [Calculate a Loan to Buy a Car](https://github.com/dcao182/dcao.github.io/commit/cef08261de2eb4a7c333bc8faeec51c92b5af0d2)
 
 ### Personal C++ Projects
+* [Collection of Bank Accounts](https://www.dropbox.com/scl/fo/yrhgflcqaisns1m1hy7w9/ALJ46PF4vcwGygvsfnVNV90?rlkey=8ten2yv3n75f4avm8jat6ry2t&st=opheiwhj&dl=0)
 * [Palindrome using a queue & a stack](https://github.com/dcao182/dcao182.github.io/blob/master/Palindrome%20with%20queue%2C%20stack%20and%20vector%20%20(C%2B%2B)/main.cpp)
 * [Occurrences of a Word in a Text File using maps & sets](https://github.com/dcao182/dcao182.github.io/blob/master/Occurrences%20of%20a%20word%20in%20a%20text%20file%20using%20maps%20and%20sets%20(C%2B%2B)/main.cpp)
 * [Music Playlist using linked lists](https://github.com/dcao182/dcao182.github.io/blob/master/Playing%20songs%20from%20a%20playlist%20using%20lists%20(C%2B%2B)/main.cpp)
