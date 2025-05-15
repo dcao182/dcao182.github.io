@@ -15,7 +15,7 @@ In 2024, I enrolled in [Georgia Institute of Technology](https://www.gatech.edu/
   
 ### Graduate Operating Systems
 * [Multi-threaded Server](https://www.dropbox.com/scl/fo/b2s2tit8wgqh4ufeeuc2z/AAV_lqv7hZ408FrYlTYJeqU?rlkey=5rm5of6ntg1w32xobtjlfqucj&st=vf5q2u8r&dl=0)
-* [IPC: Inter-Process Communication](https://www.dropbox.com/scl/fo/igxtuy0lhuv5o03vnl2it/AJ6gTwG5ZuOx8EcxThlr0Js?rlkey=8ocmtrzywn3r2abcbkv4h9bos&st=zbdc3v4l&dl=0)
+* [IPC: Inter-Process Communication](https://www.dropbox.com/scl/fo/ysabay4w3y1b00nzsuuiu/AKUxPlNify3IuE_Z26JEXOk?rlkey=tfoksnmce6nnbynqnf28ni9qx&st=wjxnop7w&dl=0)
 * [GRPC and Distributed Systems](https://www.dropbox.com/scl/fo/3qq1a8we9y89aisks67rz/AMnrdMzGqRpFrhX0ioHGW2c?rlkey=nlfobkfgytbb0ct7j60o5drg1&st=9en4kh0t&dl=0)
 
 ### Game Artificial Intelligence
