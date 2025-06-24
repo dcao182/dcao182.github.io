@@ -12,23 +12,23 @@ In 2024, I enrolled in [Georgia Institute of Technology](https://www.gatech.edu/
 * [Army Clash](https://www.dropbox.com/scl/fo/kwjkq4svm7rs1k425kw43/AETQecDkL_J3h178_JjOFKw?rlkey=oxg6vxv494qkfew2qzvb3p23z&st=m7fh9b69&dl=0)
 * [Heroes and Enemies](https://www.dropbox.com/scl/fo/zy84saifzgvj2ovdfba0b/AGDqL_RduEEnY_WW5LYfxVk?rlkey=nynjs99bx5zg113e6ztpaz17p&st=vvc2h7y2&dl=0)
 
-### Robotics: Artificial Intelligence Techniques
+### Robotics: Artificial Intelligence Techniques (Python)
 * [Hop Scotch Kalman Filters](https://www.dropbox.com/scl/fo/c1dmcsod344pmzuidojsz/AEWufP6WDRe0qE_bZh3v4fY?rlkey=ldaj0hue1mw8fm3wsg16ripa2&st=fnxrrtlx&dl=0)
 * [Solar System Particle Filters](https://www.dropbox.com/scl/fo/suc221ao6vfo8h84c8hjx/AIEWHFTdbkp5LdhGjZLLv5A?rlkey=lnfptf2f7i6vos4ogoussd9wb&st=rao7klqs&dl=0)
 * [Drone Control using Proportional, Integral, and Derivative (PID)](https://www.dropbox.com/scl/fo/a3odg3c6xq6ys8nx38qpy/AAP1KYuyaVZKVPLfajQaTag?rlkey=n8loxf2ip473dhc4usxbvqv1s&st=qvv4hj95&dl=0)
 * [Indiana Drones Simultaneous Mapping and Localization (SLAM)](https://www.dropbox.com/scl/fo/c7sh1zkt4y8kmr487cpvz/AB-3qAmNh9PE4Fa7-MQaOW4?rlkey=4kf7rzv05ei6dx6ngqps1f8mr&st=uxj2tpqk&dl=0)
   
-### Graduate Operating Systems
+### Graduate Operating Systems (C/C++)
 * [Multi-threaded Server](https://www.dropbox.com/scl/fo/b2s2tit8wgqh4ufeeuc2z/AAV_lqv7hZ408FrYlTYJeqU?rlkey=5rm5of6ntg1w32xobtjlfqucj&st=vf5q2u8r&dl=0)
 * [IPC: Inter-Process Communication](https://www.dropbox.com/scl/fo/ysabay4w3y1b00nzsuuiu/AKUxPlNify3IuE_Z26JEXOk?rlkey=tfoksnmce6nnbynqnf28ni9qx&st=wjxnop7w&dl=0)
 * [GRPC and Distributed Systems](https://www.dropbox.com/scl/fo/3qq1a8we9y89aisks67rz/AMnrdMzGqRpFrhX0ioHGW2c?rlkey=nlfobkfgytbb0ct7j60o5drg1&st=9en4kh0t&dl=0)
 
-### Game Artificial Intelligence
+### Game Artificial Intelligence (C#)
 * [Path Networking](https://www.dropbox.com/scl/fi/05sglypl59h4n3szwhkq5/CreatePathNetwork.cs?rlkey=j4f9o6m3uqel4yv1c6qqg0tkc&st=3eiyzi6c&dl=0)
 * [A Star Pathfinding](https://www.dropbox.com/scl/fi/6mumhu5b0zpw8qn80gd1w/AStarPathSearchImpl.cs?rlkey=q2u395ym3va0yycf81pxsfhd2&st=pnc3c4lp&dl=0)
 * [Prison Dodgeball - Finite State Machine](https://www.dropbox.com/scl/fo/ckqnuzp11uuw1615dkbn3/AIq6UI9f3I177i0PIGbkB6g?rlkey=u4pztj7wwol63w74pwmdqnbha&st=z0jyzfih&dl=0)
 
-### Computer Networks
+### Computer Networks (Python)
 * [Distance Vector Routing](https://www.dropbox.com/scl/fi/kt2i6tyv9fvikdnky472h/DistanceVector.py?rlkey=jssogkjhki09ay9du8aoswc13&st=by14vz7b&dl=0)
 * [BGP Hijacking](https://www.dropbox.com/scl/fo/1jsto9ul1va8zperrsfbt/ANg0_poo4KNjvXv8AkIxNpY?rlkey=inxq8i3midra1flxwtch8xrc6&st=8ttqbx6z&dl=0)
 * [Software Defined Networking Firewall](https://www.dropbox.com/scl/fo/n371we1r1hazplyowxsyd/AP17guQQ5gTf_IFYIlGqEHE?rlkey=rqz790usvj019218meh0xl0zf&st=qdqyrd1l&dl=0)
