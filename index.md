@@ -24,9 +24,11 @@ In 2024, I enrolled in [Georgia Institute of Technology](https://www.gatech.edu/
 * [GRPC and Distributed Systems](https://www.dropbox.com/scl/fo/3qq1a8we9y89aisks67rz/AMnrdMzGqRpFrhX0ioHGW2c?rlkey=nlfobkfgytbb0ct7j60o5drg1&st=9en4kh0t&dl=0)
 
 ### Game Artificial Intelligence (C#)
-* [Path Networking](https://www.dropbox.com/scl/fi/05sglypl59h4n3szwhkq5/CreatePathNetwork.cs?rlkey=j4f9o6m3uqel4yv1c6qqg0tkc&st=3eiyzi6c&dl=0)
-* [A Star Pathfinding](https://www.dropbox.com/scl/fi/6mumhu5b0zpw8qn80gd1w/AStarPathSearchImpl.cs?rlkey=q2u395ym3va0yycf81pxsfhd2&st=pnc3c4lp&dl=0)
+* [Path Networking](https://www.dropbox.com/scl/fi/nkcl2t1g57iiohtkzldub/CreatePathNetwork.cs?rlkey=rc5nqu34689k7cuhn5bpx58sw&st=sq1xwbp8&dl=0)
+* [A Star Pathfinding](https://www.dropbox.com/scl/fi/uf6hh5dscla9gj2uphupv/AStarPathSearchImpl.cs?rlkey=dt4awobo9lzvewafgeadde9ht&st=5iboa2fw&dl=0)
 * [Prison Dodgeball - Finite State Machine](https://www.dropbox.com/scl/fo/ckqnuzp11uuw1615dkbn3/AIq6UI9f3I177i0PIGbkB6g?rlkey=u4pztj7wwol63w74pwmdqnbha&st=z0jyzfih&dl=0)
+* [Grid Lattice](https://www.dropbox.com/scl/fi/h6wponvhem5y9acoan1pk/CreateGrid.cs?rlkey=mcc27bn5rbajm24pd6jqux3di&st=hvdpw49c&dl=0)
+* [Navigation Mesh Generation](https://www.dropbox.com/scl/fi/8yoc86qo62hjcr3qssoj8/CreateNavMesh.cs?rlkey=7lfhtk53xhm2kztsxfylwm1e1&st=f7hjx9v0&dl=0)
 
 ### Computer Networks (Python)
 * [Distance Vector Routing](https://www.dropbox.com/scl/fi/kt2i6tyv9fvikdnky472h/DistanceVector.py?rlkey=jssogkjhki09ay9du8aoswc13&st=by14vz7b&dl=0)
