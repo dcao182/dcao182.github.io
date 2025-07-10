@@ -9,6 +9,8 @@ In 2024, I enrolled in [Georgia Institute of Technology](https://www.gatech.edu/
 ### Georgia Institute of Technology Projects
 
 ### Java Object-Oriented Programming
+* [Linked List Class](https://www.dropbox.com/scl/fo/5j8t3mfy3ow4s5yqu6e5m/AG_M5JadNoNaPODKC3heIik?rlkey=b9yltagkf3vxth6z5mesl7r44&st=u0urhk8b&dl=0)
+* [Market Inventory Manager](https://www.dropbox.com/scl/fo/ajvo863z6zhd0jf61jxkl/AJ6o_KB0D1r3LLOGFOslOcE?rlkey=sd923mkhnzeab9qjgqu23eqkv&st=hsrdyuvf&dl=0)
 * [Army Clash](https://www.dropbox.com/scl/fo/kwjkq4svm7rs1k425kw43/AETQecDkL_J3h178_JjOFKw?rlkey=oxg6vxv494qkfew2qzvb3p23z&st=m7fh9b69&dl=0)
 * [Heroes and Enemies](https://www.dropbox.com/scl/fo/zy84saifzgvj2ovdfba0b/AGDqL_RduEEnY_WW5LYfxVk?rlkey=nynjs99bx5zg113e6ztpaz17p&st=vvc2h7y2&dl=0)
 
